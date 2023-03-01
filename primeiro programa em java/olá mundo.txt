@@ -1,0 +1,10 @@
+package primeiro_programa_java;
+
+public class PrimeiroProjeto {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Olá Mundo, meu nome e Max  e este e meu programa em java");
+	}
+
+}
